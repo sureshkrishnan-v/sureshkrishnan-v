@@ -41,8 +41,8 @@ I’m building **legendary systems** and contributing to **open-source treasures
 _"The **One Piece** is real, and so is the code!"_ – Luffy  
 Ready to set sail? Let’s make code our **treasure**! 🏴‍☠️
 
+![Luffy](https://media.giphy.com/media/1gXbxAjWQhKZo/giphy.gif)
+
 ---
 
-**Credits** to **One Piece** for the ultimate pirate adventure! 🌊
-
-![Luffy](https://media.giphy.com/media/1gXbxAjWQhKZo/giphy.gif)
+> **Credits** to _One Piece_ for the ultimate pirate adventure! 🌊
