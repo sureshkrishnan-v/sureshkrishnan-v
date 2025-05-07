@@ -1,38 +1,39 @@
-# 🏴‍☠️ **Suresh Krishnan V – The Code Pirate!** 🌊
+# 🐹 Suresh Krishnan V – Golang Backend Developer
 
-Welcome aboard the **Pirate Ship**! 🚢  
-I’m **Suresh**, a **Go** & **Java** dev, navigating through the tech seas with my **crew** of **Docker**, **Kubernetes**, and **Oracle**. Join me on an epic journey to the **One Piece** of code! 🏆
-
----
-
-## 🔥 **Tech Crew (Skills)**
-
-- 🐹 **Go** – The swift sword for backend battles  
-- ☕ **Java** & **Spring Boot** – Scaling the digital ocean  
-- 🛠️ **Docker** & **Kubernetes** – Navigating the containerized seas  
-- 🗃️ **Oracle** – My treasure chest of data
+Hi, I’m **Suresh**, a passionate **Golang developer** focused on building scalable, high-performance backend systems. I specialize in telemetry, SQL monitoring, containerized applications, and developer productivity tooling.
 
 ---
 
-## 🏴‍☠️ **Current Quest**
+## 🚀 Tech Expertise
 
-I’m building **legendary systems** and contributing to **open-source treasures**!
-
-- **Keploy** 🛠️: Crafting tests for **backend** systems  
-- **Kubebuilder** 🌐: Sailing the Kubernetes seas
-
----
-
-## 🚀 **Goals**  
-- **🚢** Keep exploring uncharted tech territories  
-- **🏆** Conquer new coding challenges, one line at a time  
+- **Golang** – Concurrency, APIs, tooling, and performance optimization  
+- **Oracle & SQL** – Query execution plans, metrics diffing, and observability  
+- **Docker & Kubernetes** – Container orchestration & CI/CD  
+- **Linux & Shell** – Automation, CLI workflows, and developer tooling  
+- **Monitoring & Tracing** – SQL obfuscation, trace collection, and telemetry reporting  
 
 ---
 
-## ⚡ **Final Word:**
-_"The **One Piece** is real, and so is the code!"_ – Luffy  
-Ready to set sail? Let’s make code our **treasure**! 🏴‍☠️
+## 🔧 Current Projects
+
+- Oracle SQL monitoring agent in Go (metrics, plans, obfuscation)  
+- CLI and backend systems for database and telemetry automation  
+- ChadVim + tmux + Kitty = blazing-fast Go dev workflow  
 
 ---
 
-> **Credits** to _One Piece_ for the ultimate pirate adventure! 🌊
+## 🧠 Learning Path
+
+- Mastering Go internals, `pprof`, and concurrent design  
+- Building Go tools using `cobra`, `sqlx`, and `net/http`  
+- Sharing weekly Go content on LinkedIn to grow and connect  
+
+---
+
+## 🛠️ Favorite Tools
+
+- **Go Tools**: `go test`, `benchstat`, `pprof`, `cobra`, `sqlx`  
+- **Dev Setup**: ChadVim, tmux, Kitty, GitHub Actions  
+- **Platforms**: Oracle DB, Linux, GCP, GitHub  
+
+---
