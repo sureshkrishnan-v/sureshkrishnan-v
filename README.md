@@ -58,16 +58,15 @@ I focus on building **scalable, high-performance backend services**, **observabi
 - **Workflow**: LazyVim, tmux, Kitty, Git  
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-sk-007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sk-007&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sureshkrishnan-v&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkrishnan-v&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sk-007&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshkrishnan-v&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
