@@ -62,7 +62,7 @@ I focus on building **scalable, high-performance backend services**, **observabi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sureshkrishnan-v&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.vercel.app/?user=sureshkrishnan-v&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="[https://streak-stats.demolab.vercel.app/?user=sureshkrishnan-v&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=sureshkrishnan-v&theme=tokyonight)" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
