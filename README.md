@@ -60,9 +60,9 @@ I focus on building **scalable, high-performance backend services**, **observabi
 ---
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
+<p  >
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshkrishnan-v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sureshkrishnan-v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshkrishnan-v&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
@@ -70,15 +70,6 @@ I focus on building **scalable, high-performance backend services**, **observabi
 
 ---
 
-## 🏆 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-</p>
 
 ---
 
