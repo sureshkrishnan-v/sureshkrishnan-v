@@ -61,12 +61,21 @@ I focus on building **scalable, high-performance backend services**, **observabi
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshkrishnan-v&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="[https://streak-stats.demolab.vercel.app/?user=sureshkrishnan-v&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=sureshkrishnan-v&theme=tokyonight)" alt="GitHub Streak" height="160"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sureshkrishnan-v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.vercel.app/?user=sureshkrishnan-v&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshkrishnan-v&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=sureshkrishnan-v&theme=github" alt="GitHub Activity Graph" height="160"/>
 </p>
 
 ---
