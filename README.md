@@ -1,4 +1,4 @@
-# 🐹 Suresh Krishnan V – Backend Engineer (Golang Specialist)
+# 🐹 Suresh Krishnan V – Backend Engineer (Golang Developer)
 
 Hi, I’m **Suresh**, a backend engineer with strong expertise in **Golang** and **infrastructure systems**.  
 I focus on building **scalable, high-performance backend services**, **observability pipelines**, and **developer productivity tooling**.  
